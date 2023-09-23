@@ -7,6 +7,7 @@
 <ion-content [fullscreen]="true" class="ion-padding" color="primary">
 
   <ion-card *ngFor="let noticia of noticias" (click)="redirecionaNoticia(noticia.titulo, noticia.noticia, noticia.img)">
+    <img src="{{ noticia.img }}" />
     <ion-card-header>
       <ion-card-title>{{ noticia.titulo }}</ion-card-title>
     </ion-card-header>
