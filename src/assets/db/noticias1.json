@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://media.istockphoto.com/id/1322205575/pt/foto/digitally-enhanced-shot-of-two-handsome-businessmen-working-in-the-office-superimposed-over.jpg?s=612x612&w=0&k=20&c=Yis9hnMY0jQ99MJaP3iGi6HmVaNyIfyE7xak2bdB62E=",
+        "titulo": "Coleta de Dados em Redes Sociais",
+        "descricao": "Aproveite as redes sociais para coletar informações valiosas.",
+        "noticia": "Nas últimas décadas, as redes sociais se tornaram uma fonte rica de dados que podem ser explorados em investigações de OSINT.\n\nEste artigo explora como os investigadores podem utilizar as redes sociais para coletar informações valiosas, desde a análise de perfis públicos até a identificação de tendências e conexões entre usuários.\n\nAprenda como aproveitar essa fonte de dados em constante crescimento para aprimorar suas investigações e obter insights profundos."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1322205536/pt/foto/digitally-enhanced-shot-of-two-attractive-businesswomen-working-in-the-office-superimposed.jpg?s=612x612&w=0&k=20&c=FHIU-Wx48LnRUvJGmb3COrcSIU0fxSokTGYfgt4053E=",
+        "titulo": "Ferramentas de OSINT",
+        "descricao": "Descubra as principais ferramentas de OSINT para investigadores digitais.",
+        "noticia": "Investigadores digitais dependem de ferramentas poderosas para coletar e analisar informações online.\n\nNeste artigo, apresentamos uma variedade de ferramentas essenciais de OSINT que são amplamente usadas na comunidade de investigações digitais.\n\nDesde motores de busca especializados até técnicas avançadas de análise de metadados, você encontrará uma gama de opções para aprimorar suas capacidades de coleta de dados.\n\nSeja você um profissional de segurança cibernética ou um investigador curioso, essas ferramentas podem ser fundamentais para o sucesso de suas investigações."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1322201810/pt/foto/digitally-enhanced-shot-of-a-handsome-businessman-working-in-the-office-superimposed-over.jpg?s=612x612&w=0&k=20&c=-NFHaijdE8cI_WGbEWNfVnkhBhROHMjOIRqrgmQ6s0A=",
+        "titulo": "Geolocalização em OSINT",
+        "descricao": "O poder da geolocalização em investigações de OSINT.",
+        "noticia": "A geolocalização desempenha um papel fundamental nas investigações de OSINT, permitindo que os investigadores rastreiem a localização física de pessoas e objetos.\n\nNeste artigo, exploramos as técnicas e ferramentas utilizadas para coletar informações de geolocalização, desde a análise de dados de GPS em imagens até a triangulação de sinais de celular.\n\nAprenda como essa poderosa ferramenta pode ser usada para rastrear alvos, identificar atividades suspeitas e até mesmo ajudar em operações de resgate."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/962094446/pt/foto/data-protection-privacy-concept-gdpr-eu-cyber-security-network-business-man-protecting-his-data.jpg?s=612x612&w=0&k=20&c=ctxGk69eIUejlvlOhC6v56ER6YNI8MCKOD3fCVwCHPw=",
+        "titulo": "Privacidade Online em OSINT",
+        "descricao": "Desafios de privacidade e melhores práticas em investigações de OSINT.",
+        "noticia": "Enquanto os investigadores de OSINT buscam informações online, a questão da privacidade surge como uma preocupação constante.\n\nEste artigo aborda os desafios de privacidade enfrentados pelos investigadores, incluindo questões éticas e legais.\n\nAlém disso, discutimos as melhores práticas para proteger sua própria privacidade enquanto conduz investigações de OSINT.\n\nAprenda como equilibrar a necessidade de informações com o respeito à privacidade das pessoas."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1128490304/pt/vetorial/isometric-protection-network-security-and-safe-your-data-concept-web-page-design-templates.jpg?s=612x612&w=0&k=20&c=2GagHBJeyLk46SRG0qy4jXtwZIqeM_pJLRT31uC4tTo=",
+        "titulo": "Investigando Ameaças Cibernéticas",
+        "descricao": "A OSINT no combate às ameaças cibernéticas.",
+        "noticia": "As ameaças cibernéticas estão em constante evolução, e a OSINT é uma ferramenta vital para entender e combater essas ameaças.\n\nNeste artigo, examinamos como os investigadores de OSINT podem contribuir para a investigação de incidentes cibernéticos, incluindo a identificação de atores maliciosos e a coleta de indicadores de comprometimento.\n\nTambém discutimos como a OSINT pode ser usada para fortalecer a segurança online, ajudando a proteger empresas e indivíduos contra ameaças cibernéticas."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/962094400/pt/foto/data-protection-privacy-concept-gdpr-eu-cyber-security-network-business-man-protecting-data.jpg?s=612x612&w=0&k=20&c=wA89BDuMXhUjP8Fp8jEBFaWyGrKxuZJfc6L1FPDnU0U=",
+        "titulo": "O Futuro da OSINT",
+        "descricao": "Vislumbre o futuro da inteligência aberta na era digital.",
+        "noticia": "A OSINT desempenha um papel crucial na coleta de informações em um mundo cada vez mais digital.\n\nNeste artigo, olhamos para o futuro da inteligência aberta e como a OSINT continuará a evoluir para enfrentar os desafios em constante mudança.\n\nDiscutimos tendências emergentes, como o uso de inteligência artificial na análise de dados de OSINT e o impacto das redes sociais na coleta de informações.\n\nAprenda como se preparar para um futuro onde a OSINT será ainda mais essencial para a tomada de decisões informadas."
+    }
+]

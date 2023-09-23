@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-button (click)="voltarPagina()">
+        <ion-icon name="arrow-back"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title>Noticia</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card class="noticia-card">
+    <ion-card-header>
+      <ion-card-title>{{ titulo }}</ion-card-title>
+    </ion-card-header>
+
+    <img width="100%" src="{{ img }}" alt="Descrição da Imagem">
+    
+    <ion-card-content style="white-space: pre-wrap;">
+      <ion-text>{{ noticia }}</ion-text>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

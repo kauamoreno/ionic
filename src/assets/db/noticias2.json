@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://media.istockphoto.com/id/1263723036/pt/foto/digital-numbers-in-transformation-monetary-or-values-dates-and-times.jpg?s=612x612&w=0&k=20&c=4L7TF5LknapO48_-Rtlyu0VJA_Cm0_q37EUnMniVp0s=",
+        "titulo": "Introdução ao Pentest",
+        "descricao": "Conheça os fundamentos da segurança de rede e pentest.",
+        "noticia": "O Pentest, ou Teste de Penetração, é uma prática essencial na área de segurança de rede. Consiste em simular ataques cibernéticos em um ambiente controlado para identificar vulnerabilidades e pontos fracos de sistemas e redes. \n\nEste artigo é uma introdução ao mundo do Pentest, explorando seus fundamentos, metodologias e ferramentas comuns. Vamos mergulhar na importância do Pentest na proteção de dados e na prevenção de violações de segurança."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1153165615/pt/foto/privacy-protection-against-hackers-virus-and-spyware.jpg?s=612x612&w=0&k=20&c=g4zRbb5pG3VzsRdV57hgEr0CmF0l-CkX-zyb_ejoyUg=",
+        "titulo": "Fases do Pentest",
+        "descricao": "Entenda as etapas cruciais de um teste de penetração.",
+        "noticia": "Um teste de penetração bem-sucedido é conduzido em várias fases, cada uma com seus próprios objetivos e métodos. Neste artigo, vamos aprofundar cada uma dessas fases, começando pela fase de Reconhecimento, onde o Pentester reúne informações sobre o alvo. \n\nEm seguida, exploramos a fase de Varredura, onde são usadas ferramentas para identificar vulnerabilidades. Passamos para a fase de Exploração, onde as vulnerabilidades são exploradas para ganhar acesso. Por fim, abordamos a fase de Pós-Exploração e Relatórios, onde o Pentester documenta suas descobertas e recomendações para mitigação."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1322201622/pt/foto/digitally-enhanced-shot-of-multiple-lines-of-computer-code.jpg?s=612x612&w=0&k=20&c=_3kdpCtT0ZArv8dq6qCYZdSp5J3phD87kXXIFVbpTXY=",
+        "titulo": "Ferramentas de Pentest",
+        "descricao": "Conheça as principais ferramentas usadas em testes de penetração.",
+        "noticia": "Os testes de penetração envolvem o uso de várias ferramentas e softwares para identificar vulnerabilidades e explorá-las. Neste artigo, apresentamos algumas das ferramentas mais populares usadas por Pentesters em todo o mundo. \n\nDesde scanners de vulnerabilidade até frameworks de exploração, você encontrará uma variedade de recursos que podem ajudar a realizar testes de penetração eficazes. Explore essas ferramentas e aprenda como utilizá-las em seus próprios projetos de Pentest."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1340804015/pt/foto/3d-rendering-of-a-combination-lock-cybersecurity-of-digital-data-protection-against-hacker.jpg?s=612x612&w=0&k=20&c=34PHYn6ED21A0HR0VDdzLGxkc7ewNYJfqsdHgxkUX8o=",
+        "titulo": "Pentest em Redes Sem Fio",
+        "descricao": "Desafios e técnicas para testes de penetração em redes Wi-Fi.",
+        "noticia": "A segurança de redes sem fio é uma área crítica, e os Pentesters desempenham um papel importante na identificação de vulnerabilidades em redes Wi-Fi. Neste artigo, examinamos os desafios exclusivos enfrentados ao realizar testes de penetração em redes sem fio. \n\nVocê aprenderá sobre técnicas comuns, como a quebra de senhas de redes Wi-Fi, e entenderá como proteger melhor sua própria rede contra ataques. Além disso, exploramos os métodos para avaliar a segurança de dispositivos IoT que se conectam a redes sem fio."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1263476746/pt/vetorial/digital-numbers-in-transformation-monetary-or-values-dates-and-times.jpg?s=612x612&w=0&k=20&c=dHG1jbyKuFAIna5sCPPVyzTYBMQJpdH5Q9amiEpYEPU=",
+        "titulo": "Ética no Pentest",
+        "descricao": "Princípios éticos para testes de penetração responsáveis.",
+        "noticia": "A ética é uma parte essencial do Pentest, pois envolve a simulação de ataques cibernéticos em sistemas e redes. Neste artigo, discutimos os princípios éticos que os Pentesters devem seguir para garantir que suas atividades sejam legais e responsáveis. \n\nExploramos temas como consentimento, limites éticos e relatórios responsáveis. Se você está considerando uma carreira em testes de penetração, compreender a importância da ética é fundamental para o seu sucesso e para a segurança digital em geral."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1179185404/pt/foto/keyboard-with-hand-and-red-light.jpg?s=612x612&w=0&k=20&c=mrrzchELh3-QUwZXHE89eJbC1vC8D3Syu7HhURSRJco=",
+        "titulo": "Futuro do Pentest",
+        "descricao": "Tendências e desafios no mundo em constante evolução do Pentest.",
+        "noticia": "O Pentest está em constante evolução à medida que a tecnologia avança e as ameaças cibernéticas se tornam mais sofisticadas. Neste artigo, olhamos para o futuro do Pentest, explorando as tendências emergentes e os desafios que os Pentesters podem enfrentar. \n\nDiscutimos tópicos como a automação de testes de penetração, a integração de IA e aprendizado de máquina e a crescente importância da segurança de dispositivos IoT. Esteja preparado para um futuro empolgante e desafiador no campo do Pentest."
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "pagina1": [
+    {
+      "titulo": "Notícia 1 da Página 1",
+      "descricao": "Esta é a descrição da Notícia 1 da Página 1."
+    },
+    {
+      "titulo": "Notícia 2 da Página 1",
+      "descricao": "Esta é a descrição da Notícia 2 da Página 1."
+    },
+    {
+      "titulo": "Notícia 3 da Página 1",
+      "descricao": "Esta é a descrição da Notícia 3 da Página 1."
+    }
+  ],
+  "pagina2": [
+    {
+      "titulo": "Notícia 1 da Página 2",
+      "descricao": "Esta é a descrição da Notícia 1 da Página 2."
+    },
+    {
+      "titulo": "Notícia 2 da Página 2",
+      "descricao": "Esta é a descrição da Notícia 2 da Página 2."
+    },
+    {
+      "titulo": "Notícia 3 da Página 2",
+      "descricao": "Esta é a descrição da Notícia 3 da Página 2."
+    }
+  ],
+  "pagina3": [
+    {
+      "titulo": "Notícia 1 da Página 3",
+      "descricao": "Esta é a descrição da Notícia 1 da Página 3."
+    },
+    {
+      "titulo": "Notícia 2 da Página 3",
+      "descricao": "Esta é a descrição da Notícia 2 da Página 3."
+    },
+    {
+      "titulo": "Notícia 3 da Página 3",
+      "descricao": "Esta é a descrição da Notícia 3 da Página 3."
+    }
+  ]
+}

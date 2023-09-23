@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://media.istockphoto.com/id/1406645290/photo/big-financial-data-theft-concept-an-anonymous-hacker-is-hacking-highly-protected-financial.webp?b=1&s=612x612&w=0&k=20&c=VQHNyf-DkI8D1zyLB2WOaM_WazrP_Osld1DlgYEIg_Q=",
+        "titulo": "Introdução aos Gadgets de Hacking",
+        "descricao": "Explore as ferramentas e dispositivos essenciais dos hackers.",
+        "noticia": "Os hackers utilizam uma variedade de gadgets e ferramentas para executar suas atividades. Neste artigo, faremos uma introdução ao mundo dos gadgets de hacking, explorando dispositivos como placas Raspberry Pi, USB Rubber Ducky e muito mais. \n\nDescubra como essas ferramentas podem ser usadas para fins legítimos, como testes de penetração e segurança cibernética, além de entender os riscos associados ao seu uso indevido."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1450584085/photo/hackers-hands-using-laptop-computer-to-code-program-focus-on-keyboard.webp?b=1&s=612x612&w=0&k=20&c=rcjkBiCKLtPE0lxpvyYO2LWa_yOOTl5QeY0pnd3qyxI=",
+        "titulo": "Placas Raspberry Pi em Hacking",
+        "descricao": "A versatilidade das placas Raspberry Pi em projetos de hacking.",
+        "noticia": "As placas Raspberry Pi ganharam destaque na comunidade de hackers devido à sua versatilidade e capacidade de execução de diversos aplicativos. Neste artigo, exploramos como os entusiastas e profissionais de segurança cibernética podem aproveitar as placas Raspberry Pi em projetos de hacking. \n\nAprenda a configurar uma Raspberry Pi como um dispositivo de teste de penetração, servidor VPN, ou até mesmo um sistema de monitoramento de rede. Descubra como essas placas podem ser uma ferramenta valiosa em seu kit de ferramentas de hacking."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/882310638/photo/usb-memory-stick-with-skull-icon-3d-render.webp?b=1&s=612x612&w=0&k=20&c=3yQYBKO68GEGPVqoUkP9O_GnncYi1vhqMkJnauNjxeI=",
+        "titulo": "USB Rubber Ducky e Ataques de Engenharia Social",
+        "descricao": "Explorando o USB Rubber Ducky e suas aplicações em ataques de engenharia social.",
+        "noticia": "O USB Rubber Ducky é um dispositivo pequeno, mas poderoso, que pode ser usado em ataques de engenharia social. Neste artigo, mergulhamos nas capacidades do USB Rubber Ducky e como ele pode ser usado para executar ataques de engenharia social eficazes. \n\nEntenda como os hackers podem programar o dispositivo para executar comandos maliciosos em computadores alvo quando conectado a uma porta USB. Além disso, saiba como se proteger contra esses tipos de ataques."
+    },
+    {
+        "img": "https://st.depositphotos.com/1137194/4073/i/450/depositphotos_40738747-stock-photo-big-data-it-security.jpg",
+        "titulo": "Ferramentas de Hacking de Código Aberto",
+        "descricao": "Descubra ferramentas de hacking de código aberto e sua importância na comunidade de segurança.",
+        "noticia": "A comunidade de hackers valoriza as ferramentas de código aberto por sua transparência e flexibilidade. Neste artigo, apresentamos algumas das principais ferramentas de hacking de código aberto, desde scanners de vulnerabilidade até frameworks de exploração. \n\nExplore como essas ferramentas são usadas por profissionais de segurança cibernética em testes de penetração e avaliações de segurança. Além disso, saiba como contribuir para a comunidade de código aberto e aprimorar essas ferramentas."
+    },
+    {
+        "img": "https://st2.depositphotos.com/1285316/12166/i/450/depositphotos_121669188-stock-photo-malware-scanner-ransomware-virus.jpg",
+        "titulo": "Técnicas de Hacking Ético",
+        "descricao": "Princípios éticos para o uso responsável de gadgets e ferramentas hackers.",
+        "noticia": "O hacking ético envolve a utilização responsável de gadgets e ferramentas hackers para fins legítimos, como testes de penetração e segurança cibernética. Neste artigo, discutimos os princípios éticos que os profissionais de hacking ético devem seguir. \n\nSaiba como obter consentimento adequado, respeitar limites éticos e conduzir testes de forma responsável. A ética desempenha um papel crucial na manutenção da integridade e da legalidade das atividades de hacking ético."
+    },
+    {
+        "img": "https://st2.depositphotos.com/1285316/12146/i/450/depositphotos_121463478-stock-photo-ransomware-virus-at-computer.jpg",
+        "titulo": "Tendências Futuras em Gadgets e Ferramentas Hackers",
+        "descricao": "Vislumbre o futuro das tecnologias e ferramentas hackers.",
+        "noticia": "O mundo da segurança cibernética está em constante evolução, e as tecnologias hackers não são exceção. Neste artigo, lançamos um olhar sobre o futuro das gadgets e ferramentas hackers, explorando tendências emergentes. \n\nDescubra como a automação, a inteligência artificial e a segurança IoT estão moldando o cenário de hacking. Esteja preparado para um futuro empolgante e desafiador no campo do hacking e da segurança cibernética."
+    }
+]
